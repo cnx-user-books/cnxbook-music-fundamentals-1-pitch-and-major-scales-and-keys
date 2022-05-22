@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Scale Degrees of the Diatonic Scale</title>
+  <metadata>
+  <md:content-id>m24691</md:content-id><md:title>Scale Degrees of the Diatonic Scale</md:title>
+  <md:abstract>Introduction to the scale degrees of the diatonic scale.</md:abstract>
+  <md:uuid>acfb30cd-3d09-46a7-8eda-3bc0b480f94f</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165396281053">Scale Degrees</para>
+    <para id="id6539770">In music we discuss the seven steps of diatonic scales in two different ways. Sometimes we reference the scale steps with numbers:</para>
+    <figure id="id5742054">
+      <media id="id5742054_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-0505.png" id="id5742054__onlineimage" height="99" width="650"/>
+      </media>
+    </figure>
+    <para id="id8781772">In this C major scale, for instance, scale degree 4 is an F. The 8<sup>th</sup> scale degree is the same note name as the 1<sup>st</sup> scale degree.</para>
+    <para id="id4127131">Secondly, each scale degree also has a unique name, one that will be often applied to harmonies built on the scale degree. Before we introduce all the scale degrees in the order they appear in the diatonic scale, let’s first explain how the scale degrees are related.</para>
+    <figure id="id5648718">
+      <media id="id5648718_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-38ee.png" id="id5648718__onlineimage" height="164" width="291"/>
+      </media>
+    </figure>
+    <para id="id6495284">The note name of each scale (here C major) or the first scale degree is called the “tonic.” This is the central note in the tonal scale or key. The next most important note is termed “dominant” for the large role (dominant role) it plays in tonal compositions. Many compositions end with chords built upon the dominant and tonic of the key. Notice that the dominant is located on the 5<sup>th</sup> scale degree—on the fifth alphabet letter of the scale:</para>
+    <figure id="id5502804">
+      <media id="id5502804_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-22a0.png" id="id5502804__onlineimage" height="159" width="281"/>
+      </media>
+    </figure>
+    <para id="id8632538">The subdominant (lower dominant) mirrors the dominant. It is below the tonic by five scale steps. “Subdominant” is below the tonic just as “submarines” are below the surface of the ocean. Count out the five steps so you verify that the subdominant is five steps below the tonic. (C, B, A, G, F)</para>
+    <para id="id4587114">The mediant and submediant are also arranged in mirror images around the tonic:</para>
+    <figure id="id6592160">
+      <media id="id6592160_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-74c0.png" id="id6592160__onlineimage" height="156" width="355"/>
+      </media>
+    </figure>
+    <para id="id6573177">“Mediant” means middle. Thus, the mediant is in the middle of the tonic and domiant, on the 3<sup>rd</sup> scale step. The submediant is in the middle of the tonic and subdominant.</para>
+    <para id="id5543055">The last two scale degrees, 2 and 7 are arranged around the tonic. The “supertonic” is above the tonic on the second scale degree. The “leading tone” is an important scale step that leads to the tonic both melodically and harmonically. You will learn more about this important scale step in your later studies.</para>
+    <para id="id1165396242638">Here are the names of the scale degrees on the C major scale:</para>
+    <figure id="id1165396245176">
+      <media id="id1165396245176_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-8af3.png" id="id1165396245176__onlineimage" height="99" width="650"/>
+      </media>
+    </figure>
+  </content>
+</document>

@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to the Piano Keyboard</title>
+  <metadata>
+  <md:content-id>m22849</md:content-id><md:title>Introduction to the Piano Keyboard</md:title>
+  <md:abstract>This introduction to the piano keyboard explains the layout of the piano keyboard and relates it to the musical alphabet and notation in the treble clef.</md:abstract>
+  <md:uuid>2648b008-60d4-4f14-9ba2-920b9dbe012c</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1169447828657">Knowledge of the layout of the piano keyboard is essential to understanding music notation. Figure 1 provides a picture of part of the piano keyboard: </para>
+    <figure id="id1169446900798">
+      <media id="id1169446900798_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-ad0b.png" id="id1169446900798__onlineimage" height="111" width="443"/>
+      </media>
+    </figure>
+    <para id="id1169442525377">(The graphics of the keyboard in Figure 1 and below are modified from Tobias R. – <link url="http://commons.wikimedia.org/wiki/User:Metoc"><emphasis effect="underline">Metoc</emphasis></link>, <link url="http://en.wikipedia.org/wiki/File:Klaviatur-3-en.svg">http://en.wikipedia.org/wiki/File:Klaviatur-3-en.svg</link> [Accessed 01 May 09])</para>
+    <para id="id1169447495905">Notice that in Figures 1 and 2 that the piano keyboard has groupings of two and three black keys—twins and triplets.</para>
+    <figure id="id1169442570411">
+      <media id="id1169442570411_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-c9da.png" id="id1169442570411__onlineimage" height="303" width="650"/>
+      </media>
+    </figure>
+    <para id="id1169447923913">The note “C” is always found immediately to the left of the twins of black keys. The musical alphabet (A, B, C, D, E, F, G) repeats throughout the range of the piano keyboard (Figure 1).</para>
+    <para id="id1169442550388">The whole steps and half steps are arranged in music notation by referring to the keyboard. Consider these intervals in Figure 3 which are half steps:</para>
+    <para id="id1169442584776">
+      <figure id="id1169442521768">
+        <media id="id1169442521768_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-4a19.png" id="id1169442521768__onlineimage" height="122" width="649"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1169442583298">The music notation in Figure 3 represents these keys on the piano in Figure 4:</para>
+    <figure id="id1169442508252">
+      <media id="id1169442508252_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-952b.png" id="id1169442508252__onlineimage" height="303" width="650"/>
+      </media>
+    </figure>
+    <para id="id1169447953262">Notice that most half step movements are from white to black keys or black to white keys. There are two important exceptions, however, that every music student must memorize. E to F and C to B are half step. These are half step intervals from a white key to a white key.</para>
+    <para id="id1169442521795">In Figure 5 the pairs of eighth notes are all whole steps. Whole steps cover the same distance as two half steps moving in the same direction: </para>
+    <figure id="id1169447844451">
+      <media id="id1169447844451_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-f0be.png" id="id1169447844451__onlineimage" height="142" width="649"/>
+      </media>
+    </figure>
+    <para id="id1169447813456">Most movements from a line to a space or a space to a line in the music notation result in whole steps. Again, however, the exceptions happen around E and F or B and C.</para>
+    <para id="id1169447790886">Movement from C to D on the piano keyboard is a whole step, there is a black key (C# or Db) between the C and D keys (Figure 6):</para>
+    <figure id="id1169442636076">
+      <media id="id1169442636076_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics6.png" id="id1169442636076__onlineimage" height="303" width="650"/>
+      </media>
+    </figure>
+    <para id="id1169442483143">Movement from D to E on the piano keyboard is a whole step, there is a black key (D# or Eb) between the D and E keys (Figure 7):</para>
+    <figure id="id1169447815823">
+      <media id="id1169447815823_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics7.png" id="id1169447815823__onlineimage" height="303" width="650"/>
+      </media>
+    </figure>
+    <para id="id1169442519300">Movement from E to F, however, is not a whole step. These are adjacent keys. Instead a whole step is from E to F#.</para>
+    <para id="id1169442572841">
+      <figure id="id1169447963944">
+        <media id="id1169447963944_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8.png" id="id1169447963944__onlineimage" height="303" width="650"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1169447837912">Not all keyboards instruments have the same arrangement of white and black notes. For further information on keyboard instruments and an introduction to the piano keyboard see:</para>
+    <para id="id1169442432754">
+      <emphasis effect="bold">Introduction to the piano keyboard (11 minutes) </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.ram">
+        <emphasis effect="bold">RealPlayer</emphasis>
+      </link>
+      <emphasis effect="bold"> | </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.wmv">
+        <emphasis effect="bold">Windows Media </emphasis>
+      </link>
+      <emphasis effect="bold">| </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.mp4">
+        <emphasis effect="bold">iPod or QuickTime Player</emphasis>
+      </link>
+      <emphasis effect="bold"> (mp4) </emphasis>
+    </para>
+  </content>
+</document>

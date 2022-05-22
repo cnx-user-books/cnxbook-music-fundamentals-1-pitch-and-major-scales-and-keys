@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Octave Designations in Music</title>
+  <metadata>
+  <md:content-id>m22936</md:content-id><md:title>Octave Designations in Music</md:title>
+  <md:abstract>Description of the system to identify music pitches in text. This is the system employed by the Acoustical Society of America and many music journals.</md:abstract>
+  <md:uuid>5be7905d-b689-4199-a7fc-22246e51a62e</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id5010847">There are many ways in which to designate pitches by text. In this module we introduce a system of identification developed by the Acoustical Society of America. The lowest C on the piano keyboard is C1. The next C above that is designated C2, the C above that is C3, and so forth. The pitches above each C receive the octave designation of the C they are above as given below on the piano keyboard:</para>
+    <figure id="id4066966"><media id="id4066966_media" alt="">
+		<image mime-type="image/png" src="../../media/graphics1-f3a4.png" id="id4066966__onlineimage" height="139" width="645"/>
+	</media>
+<caption>The graphics of the keyboard in Figure 1 are modified from Tobias R. – Metoc, http://en.wikipedia.org/wiki/File:Klaviatur-3-en.svg (Accessed 01 May 09). It is licensed for public use under the Creative Commons Attribution License.</caption></figure>
+    <para id="id4900213">Here are octave designations with notation:</para>
+    <figure id="id5578621"><media id="Octave" alt="Octave Designations in Notation">
+		<image mime-type="image/png" src="../../media/octavecolor.png"/></media>
+</figure>
+    <para id="id4826192">For a video on octave designations see:</para>
+    <para id="id8703432"><emphasis effect="bold">Octave Designations (2 minutes) </emphasis><link url="http://terryewell.com/tu/theory/OctaveDesignation.ram"><emphasis effect="underline">RealPlayer</emphasis></link> | <link url="http://terryewell.com/tu/theory/OctaveDesignation.wmv"><emphasis effect="underline">Windows Media</emphasis></link> | <link url="http://terryewell.com/tu/theory/OctaveDesignation.mp4"><emphasis effect="underline">iPod or QuickTime Player</emphasis></link> |<link url="http://www.youtube.com/watch?v=7Yp-k7vMzwI"><emphasis effect="underline">youtube</emphasis></link></para>
+  </content>
+</document>

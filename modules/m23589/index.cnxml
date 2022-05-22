@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chromatic and Diatonic Half Steps</title>
+  <metadata>
+  <md:content-id>m23589</md:content-id><md:title>Chromatic and Diatonic Half Steps</md:title>
+  <md:abstract>Module introducing chromatic and diatonic half steps in music.</md:abstract>
+  <md:uuid>038a02a3-1036-49f3-afa2-46f2ae76cf4b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1168636193105">Music notation contains two types of half steps: chromatic and diatonic. Chromatic half steps contain the same alphabet letters. For instance, C and C#, Eb and E, and G and G# are all pairs of chromatic half steps. Diatonic half steps also contain half step motions but use adjacent letters in the musical alphabet. E and F, F# and G, and A and Bb are pairs of diatonic half steps.</para>
+    <para id="id1168637352263">Study the figure below. Which are chromatic half steps and which are diatonic half steps?</para>
+    <figure id="id1168639808877">
+      <media id="id1168639808877_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 0.png" id="id1168639808877__onlineimage" height="303" width="650"/>
+      </media>
+    </figure>
+    <para id="id1168636224677">ANSWER: C to C# is a chromatic half step. D to Eb and E to F are diatonic half steps.</para>
+    <para id="id1168636242457">Here are some examples of chromatic half steps in music notation. Notice that half steps can ascend or descend.</para>
+    <para id="id1168635273832">Ascending (C to C#, chromatic half step):</para>
+    <figure id="id1168635301114">
+      <media id="id1168635301114_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 5.jpg" id="id1168635301114__onlineimage" height="161" width="246"/>
+      </media>
+    </figure>
+    <para id="id1168636442424">Ascending (Bb to B natural, chromatic half step):</para>
+    <para id="id1168635190158">
+      <figure id="id1168635196649">
+        <media id="id1168635196649_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 4.jpg" id="id1168635196649__onlineimage" height="104" width="249"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1168635116620">Descending (D to Db, chromatic half step):</para>
+    <figure id="id1168635086929">
+      <media id="id1168635086929_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 6.jpg" id="id1168635086929__onlineimage" height="168" width="251"/>
+      </media>
+    </figure>
+    <para id="id1168643079903">Likewise diatonic half steps can ascend or descend. </para>
+    <para id="id1168635286126">Ascending (A# to B, diatonic half step):</para>
+    <figure id="id1168634898277">
+      <media id="id1168634898277_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 8.jpg" id="id1168634898277__onlineimage" height="154" width="278"/>
+      </media>
+    </figure>
+    <para id="id1168635085781">Ascending (B to C, diatonic half step):</para>
+    <figure id="id1168635161340">
+      <media id="id1168635161340_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 9.jpg" id="id1168635161340__onlineimage" height="129" width="254"/>
+      </media>
+    </figure>
+    <para id="id1168642325616">Descending (E to D#, diatonic half step):</para>
+    <para id="id1168636442320">
+      <figure id="id1168636520427">
+        <media id="id1168636520427_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 13.jpg" id="id1168636520427__onlineimage" height="131" width="246"/>
+        </media>
+      </figure>
+    </para>
+  </content>
+</document>
